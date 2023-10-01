@@ -1,0 +1,8 @@
+This is project is based on the knowlege of DOM practices
+1.We are building a project for movies addition and removal 
+2.Adding fav movies 
+3.Rating movies
+4.Removing movies
+5.Watch list movies
+
+-Pranit
